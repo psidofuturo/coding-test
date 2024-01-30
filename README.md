@@ -13,7 +13,7 @@ Este teste é projetado para avaliar suas habilidades e conhecimentos como Data 
 
 ## Arquivos de Dados
 
-Você trabalhará com dois arquivos CSV, localizados no diretório `/data`:
+Você trabalhará com dois arquivos CSV, localizados no arquivo `data.zip`:
 
 1. **Clientes:** Contém informações sobre clientes, incluindo IDCliente, Nome, CPF, Email, Endereço e Data de Nascimento.
 2. **Transações:** Contém detalhes de transações, incluindo IDTransacao, IDCliente, DataPagamento, detalhes do produto e método de pagamento.
