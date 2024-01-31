@@ -51,6 +51,6 @@ Note que alguns dados podem estar faltando ou em formatos inconsistentes.
 
 ## Prazo de Entrega
 
-- O teste deve ser concluído e enviado para avaliação até [inserir data].
+- O teste deve ser concluído e enviado para avaliação até 08/02/2024 23h59.
 
 **Boa sorte!**
